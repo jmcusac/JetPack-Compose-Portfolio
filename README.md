@@ -1,2 +1,3 @@
 # JetPack-Compose-Portfolio
-PoC Jetpack Compose project levereging bleeding edge native Android performance
+Project for the Casa Team reference
+Jetpack Compose project leveraging bleeding edge native Android performance
